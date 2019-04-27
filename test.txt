@@ -1,6 +1,1 @@
-www,runoob.com
-<<<<<<< HEAD
-555555
-=======
-iiiiiii
->>>>>>> change_site
+www.runoob.com
